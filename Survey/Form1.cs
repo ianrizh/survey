@@ -19,7 +19,7 @@ namespace Survey
             try
             {
                 conn.Open();
-                txtCheck.Text = "Connection Successful";
+                txtCheck.Text = "Connection Yehey";
             }
             catch(Exception e)
             {
